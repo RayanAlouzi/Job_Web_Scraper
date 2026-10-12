@@ -1,3 +1,1 @@
-# Job_Web_Scraper
-Scraping a fake website of python jobs.
-https://github.com/RayanAlouzi/Job_Web_Scraper
+[https://github.com/RayanAlouzi/Job_Web_Scraper](https://roadmap.sh/projects/job-listings-scraper)
